@@ -15,10 +15,10 @@ git init
 git add .
  
 //githup user email bilgimizi
-git config --global user.email "akinismailgultekin@gmail.com"
+git config --global user.email "o....@gmail.com"
  
 //githup kullanıcı adımızı
-git config --global user.name "İsmail Gültekin"
+git config --global user.name "se...."
  
 //repoya yorum ile commit atıyoruz.
 git commit -m "ilk Dosyaları yükledim"
