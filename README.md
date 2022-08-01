@@ -27,7 +27,7 @@ git commit -m "ilk Dosyaları yükledim"
 git branch -M main
  
 //repo oluşturduğumuz linki ve git adı belirliyoruz
-git remote add origin https://github.com/ismailgultekin/testone.git
+git remote add origin https://sdfsfwsfwsef/tfrdhj.git
  
 //projemizi GitHub’a taşıyoruz. git adı yukarda oluşturdugumuz nextdeneme idi
 git push -u origin main
