@@ -9,6 +9,7 @@ sonra şunları sırasıyla yapıyorsun :
 cd Desktop/testone
  
 //giti aktif hale getirelim
+
 git init
  
 //klasörünün içindeki tüm dosyaları . ile ekliyoruz.
